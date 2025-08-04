@@ -10,7 +10,7 @@ General Insights:
 
 2. The shipping company United Package contributed the most, accounting for 42.15% of the shipping goods, followed by Federal Shipping and Speedy Express.
 
-3.   The most sold product is “Côte de Blaye,” followed by “Thüringer Rostbratwurst," “Raclette Courdavault,” and “Camembert Pierrot.”.
+3.   The most sold product is “Côte de Blaye,” followed by “Thüringer Rostbratwurt," “Raclette Courdavault,” and “Camembert Pierrot.”.
 
 4. The most active employee who contributed to most sales is Margaret Peacock, followed by Janet Leverling, Nancy Davolio, and Andrew Fuller.
 
